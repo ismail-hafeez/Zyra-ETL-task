@@ -1,0 +1,7 @@
+pandas
+ipykernel
+requests
+bs4
+playwright
+dotenv
+openai
