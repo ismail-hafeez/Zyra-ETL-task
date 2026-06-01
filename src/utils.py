@@ -1,13 +1,17 @@
 """
-Helper functions for Airflow tasks.
+This module contains helper functions for the ETL process.     
 """
-
+import bs4
+import requests
 from openai import OpenAI
 import os
+from typing import Generator
+from openai import OpenAI
 from dotenv import load_dotenv
 
 load_dotenv()
-API_KEY = os.getenv('GROQ_API')
+API_KEY=os.getenv('GROQ_API')
+PATH='./data/university_domains.txt'
 
 def get_location(url: str) -> dict:
     """
@@ -43,3 +47,11 @@ def get_location(url: str) -> dict:
         "state": state,
         "postal_code": postal_code
     }
+
+def get_domain() -> Generator[str, None, None]:
+    with open(PATH, 'r') as f:
+        urls = f.read().splitlines()
+    for url in urls:
+        yield url
+
+
