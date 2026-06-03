@@ -1,7 +1,6 @@
-pandas
-ipykernel
 requests
-bs4
-playwright
-dotenv
+beautifulsoup4
+pydantic[email]
+python-dotenv
 openai
+pytest
