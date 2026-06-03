@@ -1,9 +1,11 @@
 # Folders
 venv/
 __pycache__/
+.pytest_cache/
 temp/
 
 # Files
 .env
 task.md
 notebook.ipynb
+debug_llm_input.txt
