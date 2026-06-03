@@ -6,7 +6,7 @@ An ETL pipeline that takes a university domain as input, automatically discovers
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/Zyra-ETL-task.git
+git clone https://github.com/ismail-hafeez/Zyra-ETL-task.git
 cd Zyra-ETL-task
 
 # Create and activate virtual environment
