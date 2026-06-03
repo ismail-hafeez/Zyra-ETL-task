@@ -9,7 +9,6 @@ import json
 import logging
 import sys
 import os
-
 from openai import OpenAI
 
 # Ensure we can import from the root
@@ -49,8 +48,11 @@ def extract_university_data(pages: list, domain_url: str = "") -> dict:
         page_sections.append(section)
 
     all_content = "\n\n---PAGE BREAK---\n\n".join(page_sections)
+
+    # For debugging: save the exact LLM input to a file 
     with open("debug_llm_input.txt", "w", encoding="utf-8") as f:
         f.write(all_content)  
+
     user_prompt = f"""Extract university information from the following web page content into this exact JSON schema:
 
     {EXTRACTION_SCHEMA}
