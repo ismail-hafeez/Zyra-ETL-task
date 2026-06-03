@@ -10,9 +10,7 @@ import logging
 from dataclasses import dataclass
 from typing import List, Optional
 from urllib.parse import urljoin, urlparse
-
 from bs4 import BeautifulSoup
-
 import sys
 import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
@@ -35,7 +33,6 @@ class CategorizedPage:
     score: float
     anchor_text: str = ""
     depth: int = 0
-
 
 def _extract_links(html: str, base_url: str) -> List[dict]:
     """
