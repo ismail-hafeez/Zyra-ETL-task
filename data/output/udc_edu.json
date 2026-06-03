@@ -1,0 +1,139 @@
+{
+  "overview": {
+    "university_name": "University of the District of Columbia",
+    "location": {
+      "city": "Washington",
+      "state": "DC",
+      "country": "USA",
+      "postal_code": "20008"
+    },
+    "contact": {
+      "phone": "202-274-5261",
+      "email": null
+    }
+  },
+  "tuition_breakdown": [
+    {
+      "fee_type": "Undergraduate Resident Tuition (1 credit hour)",
+      "cost": 324,
+      "currency": "USD"
+    },
+    {
+      "fee_type": "Undergraduate Resident Fee (1 credit hour)",
+      "cost": 430,
+      "currency": "USD"
+    },
+    {
+      "fee_type": "Undergraduate Metro Tuition (1 credit hour)",
+      "cost": 374,
+      "currency": "USD"
+    },
+    {
+      "fee_type": "Undergraduate Non-Resident Tuition (1 credit hour)",
+      "cost": 680,
+      "currency": "USD"
+    },
+    {
+      "fee_type": "Graduate Resident Tuition (1 credit hour)",
+      "cost": 513,
+      "currency": "USD"
+    },
+    {
+      "fee_type": "Graduate Metro Tuition (1 credit hour)",
+      "cost": 580,
+      "currency": "USD"
+    },
+    {
+      "fee_type": "Graduate Non-Resident Tuition (1 credit hour)",
+      "cost": 986,
+      "currency": "USD"
+    },
+    {
+      "fee_type": "Activity Fee",
+      "cost": 35,
+      "currency": "USD"
+    },
+    {
+      "fee_type": "Athletic/Recreation Fee",
+      "cost": 105,
+      "currency": "USD"
+    },
+    {
+      "fee_type": "Health Services Fee",
+      "cost": 25,
+      "currency": "USD"
+    },
+    {
+      "fee_type": "Technology Fee",
+      "cost": 75,
+      "currency": "USD"
+    },
+    {
+      "fee_type": "Student Center Fee",
+      "cost": 140,
+      "currency": "USD"
+    },
+    {
+      "fee_type": "Career and Professional Fee",
+      "cost": 40,
+      "currency": "USD"
+    },
+    {
+      "fee_type": "Sustainability Fee",
+      "cost": 10,
+      "currency": "USD"
+    }
+  ],
+  "admission_deadlines": [
+    {
+      "deadline_type": "Regular Decision",
+      "deadline_date": "August 1",
+      "notes": "Undergraduate application deadline for Fall term"
+    },
+    {
+      "deadline_type": "Regular Decision",
+      "deadline_date": "January 1",
+      "notes": "Undergraduate application deadline for Spring term"
+    },
+    {
+      "deadline_type": "Regular Decision",
+      "deadline_date": "May 1",
+      "notes": "Undergraduate application deadline for Summer I term"
+    },
+    {
+      "deadline_type": "Regular Decision",
+      "deadline_date": "May 15",
+      "notes": "Undergraduate application deadline for Summer II term"
+    },
+    {
+      "deadline_type": "Regular Decision",
+      "deadline_date": "March 15",
+      "notes": "Graduate application deadline for Fall term"
+    },
+    {
+      "deadline_type": "Regular Decision",
+      "deadline_date": "October 15",
+      "notes": "Graduate application deadline for Spring term"
+    }
+  ],
+  "page_metadata": [
+    {
+      "url": "https://www.udc.edu",
+      "page_title": "University of the District of Columbia, Washington, DC - HBCU, Land-Grant University | University of the District of Columbia",
+      "scraped_at": "2026-06-02T18:37:40.948663+00:00",
+      "status_code": "200"
+    },
+    {
+      "url": "https://www.udc.edu/admissions/admission-deadlines",
+      "page_title": "Admission Deadlines | Admissions | University of the District of Columbia",
+      "scraped_at": "2026-06-02T18:37:41.311997+00:00",
+      "status_code": "200"
+    },
+    {
+      "url": "https://www.udc.edu/admissions/tuition-fees",
+      "page_title": "Tuition & Fees | Admissions | University of the District of Columbia",
+      "scraped_at": "2026-06-02T18:37:41.712671+00:00",
+      "status_code": "200"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "overview": {
+    "university_name": "Bucknell University",
+    "location": {
+      "city": "Lewisburg",
+      "state": "PA",
+      "country": "USA",
+      "postal_code": "17837"
+    },
+    "contact": {
+      "phone": "570-577-3000",
+      "email": "admissions@bucknell.edu"
+    }
+  },
+  "tuition_breakdown": [
+    {
+      "fee_type": "Tuition",
+      "cost": 72600,
+      "currency": "USD"
+    },
+    {
+      "fee_type": "Housing",
+      "cost": 11400,
+      "currency": "USD"
+    },
+    {
+      "fee_type": "Approximate Meal Plan Cost",
+      "cost": 6980,
+      "currency": "USD"
+    },
+    {
+      "fee_type": "Activity Fee",
+      "cost": 900,
+      "currency": "USD"
+    }
+  ],
+  "admission_deadlines": [
+    {
+      "deadline_type": "Regular Decision",
+      "deadline_date": "2026-01-10",
+      "notes": "Application, scholarship application, CSS Profile and FAFSA due"
+    },
+    {
+      "deadline_type": "Transfer Admission",
+      "deadline_date": "2026-03-15",
+      "notes": "Fall semester application deadline"
+    }
+  ],
+  "page_metadata": [
+    {
+      "url": "https://www.bucknell.edu",
+      "page_title": "Bucknell University | Liberal Arts, Engineering, & Management Colleges",
+      "scraped_at": "2026-06-03T13:05:15.936811+00:00",
+      "status_code": "200"
+    },
+    {
+      "url": "https://www.bucknell.edu/admissions-aid/admissions-dates-deadlines",
+      "page_title": "Admissions Dates & Deadlines",
+      "scraped_at": "2026-06-03T13:05:16.403616+00:00",
+      "status_code": "200"
+    },
+    {
+      "url": "https://www.bucknell.edu/admissions-aid/tuition-fees-financial-aid",
+      "page_title": "Tuition, Fees & Financial Aid",
+      "scraped_at": "2026-06-03T13:05:16.745483+00:00",
+      "status_code": "200"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "overview": {
+    "university_name": "Salisbury University",
+    "location": {
+      "city": "Salisbury",
+      "state": "Maryland",
+      "country": "USA",
+      "postal_code": null
+    },
+    "contact": {
+      "phone": null,
+      "email": null
+    }
+  },
+  "tuition_breakdown": [
+    {
+      "fee_type": "Tuition and Mandatory Fees - In State",
+      "cost": 11466,
+      "currency": "USD"
+    },
+    {
+      "fee_type": "Housing",
+      "cost": 8150,
+      "currency": "USD"
+    },
+    {
+      "fee_type": "Food",
+      "cost": 6368,
+      "currency": "USD"
+    },
+    {
+      "fee_type": "Tuition and Mandatory Fees - Out of State",
+      "cost": 23590,
+      "currency": "USD"
+    },
+    {
+      "fee_type": "Books, Supplies, Course Materials & Equipment",
+      "cost": 1300,
+      "currency": "USD"
+    },
+    {
+      "fee_type": "Personal/Trans/Misc.",
+      "cost": 3900,
+      "currency": "USD"
+    },
+    {
+      "fee_type": "Loan Fee Allowance",
+      "cost": 312,
+      "currency": "USD"
+    }
+  ],
+  "admission_deadlines": [
+    {
+      "deadline_type": "Regular Decision",
+      "deadline_date": "January 15",
+      "notes": null
+    }
+  ],
+  "page_metadata": [
+    {
+      "url": "https://www.salisbury.edu",
+      "page_title": "Salisbury University, Universities in Maryland",
+      "scraped_at": "2026-06-02T18:37:56.068211+00:00",
+      "status_code": "200"
+    },
+    {
+      "url": "https://www.salisbury.edu/admissions/apply-now.aspx",
+      "page_title": "Apply Now | Salisbury University",
+      "scraped_at": "2026-06-02T18:37:57.033044+00:00",
+      "status_code": "200"
+    },
+    {
+      "url": "https://www.salisbury.edu/admissions/financial-aid/cost-of-attendance/",
+      "page_title": "Salisbury University Cost of Attendance | Salisbury University",
+      "scraped_at": "2026-06-02T18:37:57.962587+00:00",
+      "status_code": "200"
+    }
+  ]
+}

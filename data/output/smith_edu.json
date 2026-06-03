@@ -1,0 +1,79 @@
+{
+  "overview": {
+    "university_name": "Smith College",
+    "location": {
+      "city": "Northampton",
+      "state": "MA",
+      "country": "USA",
+      "postal_code": "01063"
+    },
+    "contact": {
+      "phone": "413-585-2500",
+      "email": "admission@smith.edu"
+    }
+  },
+  "tuition_breakdown": [
+    {
+      "fee_type": "Tuition",
+      "cost": 70460,
+      "currency": "USD"
+    },
+    {
+      "fee_type": "Food & Housing",
+      "cost": 24520,
+      "currency": "USD"
+    },
+    {
+      "fee_type": "Student Activities Fee",
+      "cost": 308,
+      "currency": "USD"
+    },
+    {
+      "fee_type": "Health Insurance",
+      "cost": 3588,
+      "currency": "USD"
+    },
+    {
+      "fee_type": "Books, course materials, supplies, and equipment",
+      "cost": 800,
+      "currency": "USD"
+    },
+    {
+      "fee_type": "Transportation",
+      "cost": 640,
+      "currency": "USD"
+    },
+    {
+      "fee_type": "Personal expenses",
+      "cost": 1910,
+      "currency": "USD"
+    }
+  ],
+  "admission_deadlines": [
+    {
+      "deadline_type": null,
+      "deadline_date": "June 30",
+      "notes": "End of fiscal year, deadline for donations"
+    }
+  ],
+  "page_metadata": [
+    {
+      "url": "https://www.smith.edu",
+      "page_title": "Home: Smith College | Smith College",
+      "scraped_at": "2026-06-03T08:08:45.621624+00:00",
+      "status_code": "200"
+    },
+    {
+      "url": "https://www.smith.edu/admission-aid/apply-smith",
+      "page_title": "Apply to Smith College",
+      "scraped_at": "2026-06-03T08:08:46.779286+00:00",
+      "status_code": "200"
+    },
+    {
+      "url": "https://www.smith.edu/admission-aid/tuition-financial-aid-old",
+      "page_title": "Smith College | Tuition & Financial Aid for Applicants",
+      "scraped_at": "2026-06-03T08:08:48.248346+00:00",
+      "status_code": "200"
+    }
+  ]
+}
